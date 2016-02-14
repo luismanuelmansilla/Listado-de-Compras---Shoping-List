@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1448511212 source:c:\users\luism\desktop\listado de compras\main.cpp
+	<iostream>
+	"Menu.h"
+
+1448474128 source:c:\users\luism\desktop\listado de compras\src\articulo.cpp
+	"Articulo.h"
+
+1448497854 c:\users\luism\desktop\listado de compras\include\articulo.h
+	<string>
+
+1448511751 source:c:\users\luism\desktop\listado de compras\src\lista.cpp
+	<iostream>
+	<stdlib.h>
+	"Lista.h"
+	"Articulo.h"
+
+1448506981 c:\users\luism\desktop\listado de compras\include\lista.h
+	"Articulo.h"
+
+1448507057 c:\users\luism\desktop\listado de compras\include\menu.h
+	"Lista.h"
+	"Articulo.h"
+	"Menu.h"
+
+1448511389 source:c:\users\luism\desktop\listado de compras\src\menu.cpp
+	<iostream>
+	"Menu.h"
+	<stdlib.h>
+
+1448511212 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea2\listado de compras\main.cpp
+	<iostream>
+	"Menu.h"
+
+1448507057 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea2\listado de compras\include\menu.h
+	"Lista.h"
+	"Articulo.h"
+	"Menu.h"
+
+1448506981 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea2\listado de compras\include\lista.h
+	"Articulo.h"
+
+1448497854 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea2\listado de compras\include\articulo.h
+	<string>
+
+1448474128 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea2\listado de compras\src\articulo.cpp
+	"Articulo.h"
+
+1449019936 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea2\listado de compras\src\lista.cpp
+	<iostream>
+	<stdlib.h>
+	"Lista.h"
+	"Articulo.h"
+
+1448512008 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea2\listado de compras\src\menu.cpp
+	<iostream>
+	"Menu.h"
+	<stdlib.h>
+
